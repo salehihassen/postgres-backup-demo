@@ -1,0 +1,4 @@
+backups/*
+.env
+pgdata2
+*.sql

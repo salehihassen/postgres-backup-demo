@@ -1,0 +1,2 @@
+echo "0 */6 * * * /usr/local/bin/pgdump-cron.sh >> /var/log/pgdump-cron.log 2>&1" > /etc/crontabs/root
+
